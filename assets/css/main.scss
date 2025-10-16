@@ -41,9 +41,19 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* 在此处添加自定义样式（例如修改标题颜色） */
 .page__title {
-  color: #C70039 !important; /* 深红色标题 */
+  color: #C70039 !important; /* 深红色主标题 */
+  margin: 25px 0;
+  font-size: 2em;
+}
+
+/* 副标题（各章节标题）样式 */
+.section-title {
+  color: #1597BB !important; /* 青蓝色副标题 */
+  margin: 20px 0 10px 0;
+  font-size: 1.5em;
+  font-weight: 600;
+  display: block; /* 确保副标题独立成行 */
 }
 /* 修改个人头像为方形（适配多种可能的类名） */
 .profile-pic,
