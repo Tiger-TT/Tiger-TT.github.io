@@ -45,3 +45,8 @@
 .page__title {
   color: #C70039 !important; /* 深红色标题 */
 }
+/* 修改个人头像为方形 */
+.profile-pic {
+  border-radius: 0 !important; /* 取消圆角，变为方形 */
+}
+
