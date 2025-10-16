@@ -28,8 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Peking University"
   location         : "Beijing, China"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "Peking University First Hospital"
+  uri              : "https://www.pkufh.com/"
   email            : "tiantai@bjmu.edu.cn" 
 
   # Academic websites
@@ -38,9 +38,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0003-2158-1190"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Tai Tian"
   researchgate     : # URL
   scopus           : # URL
 
