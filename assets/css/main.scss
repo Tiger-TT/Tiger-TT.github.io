@@ -45,8 +45,13 @@
 .page__title {
   color: #C70039 !important; /* 深红色标题 */
 }
-/* 修改个人头像为方形 */
-.profile-pic {
-  border-radius: 0 !important; /* 取消圆角，变为方形 */
+/* 修改个人头像为方形（适配多种可能的类名） */
+.profile-pic,
+.avatar,
+.author__avatar img,
+.sidebar__avatar img {
+  border-radius: 0 !important; /* 取消圆角，强制方形 */
+  box-shadow: none !important; /* 可选：移除可能的阴影效果 */
 }
+
 
