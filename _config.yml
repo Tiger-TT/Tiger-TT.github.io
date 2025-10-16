@@ -23,14 +23,14 @@ repository               : "tiger-tt/tiger-tt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/image.png"
-  name             : "Your Sidebar Name"
+  avatar           : "../images/image.png"
+  name             : "Tai Tian (田泰)"
   pronouns         : # example: "she/her"  
-  bio              : "Peking University Health Science Center PhD candidate"
-  location         : "Earth"
+  bio              : "Peking University"
+  location         : "Beijing, China"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tiantai@bjmu.edu.cn" 
 
   # Academic websites
   academia         : # URL
